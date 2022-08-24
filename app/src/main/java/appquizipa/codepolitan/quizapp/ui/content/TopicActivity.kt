@@ -1,5 +1,4 @@
 package appquizipa.codepolitan.quizapp.ui.content
-import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.codepolitan.quizapp.R
@@ -10,25 +9,28 @@ import org.jetbrains.anko.startActivity
 class TopicActivity  : AppCompatActivity(){
     companion object{
         const val EXTRA_NICKNAME = "extra_nickname"
-        private var nickname: String? = null
     }
+    private var nickname: String? = null
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.topics_option)
+
+        if(intent !=null){
+            nickname = intent.getStringExtra(EXTRA_NICKNAME)
+        }
+
         button.setOnClickListener {
-            val intent = Intent(this, ContentActivityA::class.java)
             startActivity<ContentActivityA>(
                 ContentActivityA.EXTRA_NICKNAME to nickname
             )
         }
-        button.setOnClickListener {
-            val intent = Intent(this, ContentActivityB::class.java)
+        button2.setOnClickListener {
             startActivity<ContentActivityB>(
                 ContentActivityB.EXTRA_NICKNAME to nickname
             )
         }
-        button.setOnClickListener {
-            val intent = Intent(this, ContentActivityC::class.java)
+        button3.setOnClickListener {
             startActivity<ContentActivityC>(
                 ContentActivityC.EXTRA_NICKNAME to nickname
             )
