@@ -5,10 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.codepolitan.quizapp.R
 import com.codepolitan.quizapp.databinding.ActivityPrepareBinding
 import appquizipa.codepolitan.quizapp.ui.content.ContentActivityA
-import appquizipa.codepolitan.quizapp.ui.content.ContentActivityA.Companion.EXTRA_NICKNAME
-import appquizipa.codepolitan.quizapp.ui.content.ContentActivityA.Companion.EXTRA_NICKNAME
-import appquizipa.codepolitan.quizapp.ui.content.topics
-import org.jetbrains.anko.contentView
+import appquizipa.codepolitan.quizapp.ui.content.TopicActivity
 import org.jetbrains.anko.startActivity
 
 class PrepareActivity : AppCompatActivity() {
@@ -27,8 +24,8 @@ class PrepareActivity : AppCompatActivity() {
     prepareBinding.btnStart.setOnClickListener {
       val nickname = prepareBinding.etNickname.text.toString()
       if (checkValidation(nickname)) {
-        startActivity<topics>(
-          ContentActivityA.EXTRA_NICKNAME to nickname
+        startActivity<TopicActivity>(
+          TopicActivity.EXTRA_NICKNAME to nickname
         )
       }
     }

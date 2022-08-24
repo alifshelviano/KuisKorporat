@@ -1,33 +1,41 @@
 package appquizipa.codepolitan.quizapp.ui.content
-
 import android.content.Intent
 import android.os.Bundle
-import android.os.PersistableBundle
-import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import com.codepolitan.quizapp.R
 import kotlinx.android.synthetic.main.topics_option.*
-import kotlinx.android.synthetic.main.topics_option.view.*
+import org.jetbrains.anko.startActivity
 
-class topics  : AppCompatActivity(){
+
+class TopicActivity  : AppCompatActivity(){
     companion object{
         const val EXTRA_NICKNAME = "extra_nickname"
-        const val EXTRA_CONTENTS = "extra_contents"
+        private var nickname: String? = null
     }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.topics_option)
-        button.setOnClickListener{
+        button.setOnClickListener {
             val intent = Intent(this, ContentActivityA::class.java)
-            startActivity(intent)
+            startActivity<ContentActivityA>(
+                ContentActivityA.EXTRA_NICKNAME to nickname
+            )
         }
-        button2.setOnClickListener{
+        button.setOnClickListener {
             val intent = Intent(this, ContentActivityB::class.java)
-            startActivity(intent)
+            startActivity<ContentActivityB>(
+                ContentActivityB.EXTRA_NICKNAME to nickname
+            )
         }
-        button3.setOnClickListener{
+        button.setOnClickListener {
             val intent = Intent(this, ContentActivityC::class.java)
-            startActivity(intent)}
+            startActivity<ContentActivityC>(
+                ContentActivityC.EXTRA_NICKNAME to nickname
+            )
+        }
+
+
+
 
 
 

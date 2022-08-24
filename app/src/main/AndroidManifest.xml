@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.QuizApp">
         <activity android:name="appquizipa.codepolitan.quizapp.ui.score.ScoreActivity"/>
-        <activity android:name="appquizipa.codepolitan.quizapp.ui.content.topics"/>
+        <activity android:name="appquizipa.codepolitan.quizapp.ui.content.TopicActivity"/>
         <activity android:name="appquizipa.codepolitan.quizapp.ui.content.ContentActivityA" />
         <activity android:name="appquizipa.codepolitan.quizapp.ui.prepare.PrepareActivity" />
         <activity android:name="appquizipa.codepolitan.quizapp.ui.content.ContentActivityB" />
