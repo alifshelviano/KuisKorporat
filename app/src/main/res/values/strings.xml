@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppQuizIPA</string>
+    <string name="desc_app">Aplikasi quiz sederhana untuk menguji pemahaman siswa kelas 6 Sekolah Dasar tentang Ilmu Pengetahuan Alam</string>
+    <string name="play">Main</string>
+    <string name="start">Mulai</string>
+    <string name="enter_a_nickname">Masukkan Nama Anda</string>
+    <string name="please_field_your_nickname">Silahkan masukkan nama Anda</string>
+    <string name="default_index">- / -</string>
+    <string name="default_text">-</string>
+    <string name="your_score">Score Anda</string>
+    <string name="done">Selesai</string>
+    <string name="are_you_sure">Apa anda ingin mengakhiri quiz?</string>
+    <string name="message_exit">Jika anda klik yes, maka data anda akan hilang</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="message_input_data">Silahkan periksa kembali jawaban Anda</string>
+</resources>
