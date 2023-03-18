@@ -1,5 +1,5 @@
 package appkuis.kuiskorporat.kuis.model
-import com.codepolitan.quizapp.R
+import com.app.kuis.R
 
 object QuizImage {
     val quizImages = mapOf(
