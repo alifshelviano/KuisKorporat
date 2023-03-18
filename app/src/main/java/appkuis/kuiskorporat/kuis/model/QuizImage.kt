@@ -3,8 +3,8 @@ import com.app.kuis.R
 
 object QuizImage {
     val quizImages = mapOf(
-        "gambar1" to R.drawable.pencernaan,
-        "gambar2" to R.drawable.kelabang,
+        "gambar2" to R.drawable.pencernaan,
+        "gambar1" to R.drawable.kelabang,
         "gambar3" to R.drawable.sistemgerak,
         "gambar4" to R.drawable.bayangan,
         "gambar5" to R.drawable.magnet
