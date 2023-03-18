@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">AppQuizIPA</string>
-    <string name="desc_app">Aplikasi quiz sederhana untuk menguji pemahaman siswa kelas 6 Sekolah Dasar tentang Ilmu Pengetahuan Alam</string>
-    <string name="play">Main</string>
+    <string name="app_name">kuis</string>
+    <string name="desc_app">Kuis Budak Korporat</string>
+    <string name="play">Mulai</string>
     <string name="start">Mulai</string>
     <string name="enter_a_nickname">Masukkan Nama Anda</string>
     <string name="please_field_your_nickname">Silahkan masukkan nama Anda</string>
@@ -10,8 +10,15 @@
     <string name="your_score">Score Anda</string>
     <string name="done">Selesai</string>
     <string name="are_you_sure">Apa anda ingin mengakhiri quiz?</string>
+
     <string name="message_exit">Jika anda klik yes, maka data anda akan hilang</string>
     <string name="yes">Ya</string>
     <string name="no">Tidak</string>
+    <string name="text_view">berdasarkan metode penelitian yang dilakukan dengan melalui sejumlah urutan tahapan. Pada tahap pertama dilakukan akuisisi data ulasan-ulasan pengguna aplikasi PeduliLindungi pada layanan Google Play Store dengan menggunakan library Python yaitu google_play_scraper. Tahap kedua dilakukan data pre-processing, di mana fffffffffqfqfqfdddds</string>
+    <string name="text_view2">pembahasaan 111</string>
+    <string name="text_view3">pembahasaan 333</string>
+    <string name="text_on_click">COMPUTER SCIENCE PORTAL</string>
+    <string name="text_on_click2">COMPUTER SCIENCE PORTAL</string>
+    <string name="text_on_click3">COMPUTER SCIENCE PORTAL</string>
     <string name="message_input_data">Silahkan periksa kembali jawaban Anda</string>
 </resources>

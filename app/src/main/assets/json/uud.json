@@ -1,0 +1,634 @@
+{
+  "contents": [
+    {
+      "body": "1. Berdasarkan UUD 1945 pasal 14 ayat 1 hasil amandemen, Presiden memberi grasi dan rehabilitasi memperhatikan pertimbangan...",
+      "image": "",
+      "answers": [
+        {
+          "answer": "MPR",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "DPR",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "DPA",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "MA",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "2. Pengangkatan dan pemberhentian anggota Komisi Yudisial dilakukan oleh Presiden dengan persetujuan …",
+      "image": "",
+      "answers": [
+        {
+          "answer": "DPR",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "MPR",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "DPA",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "MA",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "3.  Pemilihan ketua dan wakil ketua Mahkamah Agung sebagaimana diatur dalam UUD 1945 dilakukan...",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Presiden",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Presiden dengan persetujuan DPA",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Presiden dengan persetujuan DPA",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Hakim Agung",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "4. Tata urutan perundang- undangan menurut TAP MPR No III/ MPR/ 2000 adalah..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "UUD 1945, TAP MPR, Peraturan Pemerintah, Undang- Undang, UU Perpu, Keppres, Peraturan Daerah",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "UUD 1945, TAP MPR, Undang - Undang, UU Perpu, Peraturan Pemerintah,Keppres, Peraturan Daerah",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "UUD 1945, TAP MPR, Peraturan Pemerintah, Undang- Undang, Kepres, UU Perpu, Peraturan Daerah",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "UUD 1945, TAP MPR, Peraturan Pemerintah, Undang- Undang, UU Perpu,, Keppres, Peraturan Daerah",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "5. Keputusan MPR atas usus pemberhentian presiden dan/atau wakil presiden harus diambil dalam rapat paripurna MPR yang dihadiri sekurang-kurangnya ¾ dari jumlah \nanggota dan disetujui sekurang-kurangnya …… dari jumlah anggota yang hadir.",
+      "image": "",
+      "answers": [
+        {
+          "answer": "3/4",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "2/3 + 1",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "2/3",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "50% + 1",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "6. Jika presiden dan wakil presiden mangkat, berhenti, diberhentikan atau tidak dapat melaksanakan kewajibannya dalam masa \njabatan secara bersamaan, maka pelaksanaan tugas kepresidenan adalah ……",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Ketua MPR, Ketua DPR",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Ketua MPE, Ketua DPR dan para Menteri",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "MA, Jaksa Agung dan para Menteri",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Menteri Dalam Negeri, Menteri Luar \nNegeri dan Menteri Pertahanan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "7. Penerimaan dan pengeluaran APBN mengikuti prinsip … ..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Sepadan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Seimbang",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Imbas",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Berimbang",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "8. Dalam memberikan amnesti dan abolisi Presiden memperhatikan pertimbangan...",
+      "image": "",
+      "answers": [
+        {
+            "answer": "Hakim Agung",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "MPR",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "DPR",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "MA",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "9. Pihak yang berhak untuk melakukan peradilan kasasi dalam sistem peradilan di negara RI adalah ..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "DPA",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Mahkamah Agung",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Mahkamah Militer",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Badan Peradilan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "10. Komponen utama dalam sistem pertahanan negara Republik Indonesia adalah ……..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Rakyat",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Polri",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Pemerintah",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "TNI POLRI",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "11. Dewan Perwakilan Rakyat memiliki fungsi legislasi, anggaran, dan pengawasan. Hal ini diatur dalam pasal.",
+      "image": "",
+      "answers": [
+        {
+          "answer": "20 A Ayat (1)",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "20 A Ayat (2)",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "20 A Ayat (3)",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "20 A Ayat (4)",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "12. Presiden tidak dapat membekukan  dan/atau membubarkan Dewan Perwakilan Rakyat, ini merupakan bunyi pasal …",
+      "image": "",
+      "answers": [
+        {
+          "answer": "7",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "7 A",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "7 B",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "7 C",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "13. Negara Indonesia adalah negara Hukum, hal ini merupakan isi dari Pasal 1 UUD 1945 Ayat ……..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "1",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "2",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "3",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "4",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "14. Sebagai wujud dari reformasi, dalam tubuh UUD 1945 telah mengalami beberapa amandemen, amandemen terakhir merupakan perubahan ke  ……..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "1",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "3",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "5",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "4",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "15. Perubahan ketiga UUD 1945 disahkan pada ……",
+      "image": "",
+      "answers": [
+        {
+          "answer": "19 Oktober 1999",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "18 Agustus 2000",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "10 November 2001",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "10 Agustus 2002",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "16. Bila disimpulkan maka pokok - pokok pikiran yang terkandung dalam Pembukaan UUD 1945 sebagai berikut, kecuali  ……",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Pokok pikiran tentang persatuan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pokok pikiran tentang keadilan sosial bagi seluruh rakyat Indonesia",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Pokok pikiran tentang kedaulatan rakyat berdasar atas kerakyatan dan pemusyaratan perwakilan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Pokok pikiran tentang pertahanan dan keamanan nasional",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "17. Menurut pasal 1 UUD 1945 amandemen MPR tidak lagi melakukan sepenuhnya kedaulatan rakyat, karena ……..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Kedaulatan berada di tangan Rakyat",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Kedaulatan sepenuhnya dilakukan melalui pilpres langsung",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Kedaulatan berada ditangan legislative dan presiden/wakil yang dilakukan melalui mekanisme pemilihan langsung",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Kedaulatan berada di tangan Mahkamah Konstitusi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "18. Tugas yang dikerjakan pemerintah dibawah ini yang sesuai dengan pasal 33 ayat 1 UUD 1945 ialah ……..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Mendirikan gedung sekolah, membangun jalan, memperbaiki jembatan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Mendirikan koperasi unit desa dengan segala aspek pembinaannya",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Mengolah sumber daya alam demi kesejahteraan masyarakat",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Mengusahakan dengan cepat listrik masuk Desa",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "19. Pelaksanaan politik luar negeri Indonesia berpedoman pada pembukaan UUD 1945 yaitu ……..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Indonesia berusaha membantu perjuangan kemerdakan bangsa-bangsa yang masih terjatuh",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Indonesia membantu pelaksanaan keadilan sosial internasional berpedoman piagam PBB",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Memperkuat sendi-sendi  hukum internasional dan organisasi internasional untuk perdamaian yang kekal",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Bersahabt dengan segala bangsa atas negara saling menghargai dengan tidak mencampuri urusan dalam negeri",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "20. Yang berhak memberikan grasi dan rehabilitasi ……..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "MPR",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "MA",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Presiden",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "DPR",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "20. Iuran yang diberikan oleh rakyat kepada negara yang ditetapkan dalam peraturan perundangan disebut dengan …… ……..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Rakyat",
+          "correct_answer": "Retribusi",
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pajak",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Sumbangan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Kontraprestasi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    }
+  ]
+}

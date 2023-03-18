@@ -1,0 +1,1465 @@
+{
+  "contents": [
+    {
+      "body": "1. Absolut ==...",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Positif",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Abnormal",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Keras",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Mutlak",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "2. Donor ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Penderma",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Penerima",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Darah",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Pemberian",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "3. Nuansa ==...",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Irama",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Kelangsungan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Keseimbangan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Perbedaan Unsur Makna",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "4. Anulir ==",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Abolisi",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pemberatan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Penambahan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Analisa",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "5. Kelakar ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Goda",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Tertawa",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Cacian",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Canda",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "6. Plegmetis ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Respek",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Tegas",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Temperamen Rendah",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Permisif",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "7. Evokasi ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Menggugah Rasa",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pengungsian",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Hasrat",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Penilaian",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "8. Konkaf ==...",
+      "image": "",
+      "answers": [
+        {
+            "answer": "Cembung",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Cekung",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Ultrasonik",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Konfuksi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "9. Pedagogi ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Pelajaran",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Silabus",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Kurikulum",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Pengajaran",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "10. Daur ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Siklus",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Baur",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Produk",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Tingkatan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    }
+    ,{
+      "body": "11. Memo ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Catatan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pesan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Informasi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Ingatan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "12. Eksploitasi ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Pendayagunaan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pengumuman",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Penelitian",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Gosip",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "13. Ekstensi ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Perluasan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Percepatan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Pendidikan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Penggabungan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "14. Militan ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Berhaluan keras",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Anti penindasan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Ideologi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Brutal",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "15. Efisien ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Berhemat",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Tepat guna",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Pemborosan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Menyederhanakan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "16. Efektif ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Bertujuan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Berpeluang",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Berhemat",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Berhasil guna",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "17. Defleksi ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Pencarian",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Penyimpangan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Penggandaan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Pengurangan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "18. Agresi ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Permintaan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pertemuan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Penyerangan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Pertikaian",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "19. Asa ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Perasaan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Tampak",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Percaya",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Harapan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "20. De Facto ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Kenyataan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Perkiraan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Di Atas Kertas",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Klaim",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "21. Implisit ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Pengaduan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pesan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Tersirat",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Terbuka",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "22. Renta ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Rinai",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Usia",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Wreda",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Rinai",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "23. Tambun ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Subur",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Rimbun",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Gunduk",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Kurun",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "24. Absah ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Yakin",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Sahih",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Konsisten",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Serius",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "25. Sabotase ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Korsleting",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Elaborasi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Koalisi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Subversi",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "26. Sanak ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "jenak",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "kerap",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "klan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Kelompok",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "27. Galat ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Kacau",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Semu",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Ubah",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Silap",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "28. Invasi ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Gerakan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Agresi",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Jebakan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Klaim",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "29. Citra ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Kesan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Rasa",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Harap",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Mimpi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "30. Kalap ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Nanar",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Perkiraan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Rusak",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Sulap",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "31. Misi ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Kerja",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Arah",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Sasaran",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Visi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "32. Sipil ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Militer",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Mudah",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Strata",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Awam",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "33. Runyam ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Silap",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pelik",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Senyap",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Lemah",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "34. Gegap ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Kalap",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Sesak",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Riuh",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Geram",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "35. Loba ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Serakah",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pesan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Dermawan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Terbuka",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "36. Nahi ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Kenyataan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Perkiraan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Larangan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Tidak",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "37. Dehidrat ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Basah",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Kurang Air",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Dahaga",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Kering",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "38. Alegro ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Lambat",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Cepat",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Suara",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Tinggi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "39. Buldan ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Negeri",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pesan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Perumahan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Distrik",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "40. Identitas ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "tanda tangan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "ciri- ciri",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "penampakan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "terlihat",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "41. Sabotase ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Penculikan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pemusnahan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Perusakan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Penutupan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "42. Oblak ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Luas",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "tinggi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "rendah",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "panjang",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "43. Bulsakk ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Bantal",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Kasur",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Rotan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Curang",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "44. Genjah ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Lekas berbuah",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Berantakan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Bibit",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Subur",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "45. de jure ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "formalitas",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "pemerintahan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "berdasarkan hukum",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "nyata",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "46. Mangkus ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Manjur",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Cawan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Terlambat",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "kadaluarsa",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "47. Friksi ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Pergeseran",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Perubahan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Fiktif",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Buatan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "48. Eklips ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Gerhana",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Lingakaran",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Rotasi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Matahari",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "49. ofset ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "mendekati",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "akhiran",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "proses cetak",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "pembuktian",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "50. Virginitas ==..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Kehormatan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Ketinggian",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Kebersihan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Kecantikan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    }
+  ]
+}

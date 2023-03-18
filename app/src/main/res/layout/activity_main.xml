@@ -6,28 +6,22 @@
     android:layout_height="match_parent"
     android:background="@drawable/bg_home"
     android:padding="40dp"
-    tools:context="appquizipa.codepolitan.quizapp.ui.main.MainActivity">
-
-    <ImageView
-        android:id="@+id/image_view_quiz"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/ic_quiz_apps"
-        android:layout_marginTop="140dp"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
+    tools:context="appkuis.kuiskorporat.kuis.ui.main.MainActivity">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="128dp"
+        android:fontFamily="sans-serif-medium"
+        android:lineSpacingExtra="4dp"
         android:text="@string/desc_app"
         android:textAlignment="center"
-        android:textSize="16sp"
-        android:lineSpacingExtra="4dp"
-        android:fontFamily="sans-serif-medium"
-        android:layout_marginTop="12dp"
-        app:layout_constraintTop_toBottomOf="@id/image_view_quiz"/>
+        android:textColor="@color/black"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/btn_play"

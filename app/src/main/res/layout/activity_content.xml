@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="appquizipa.codepolitan.quizapp.ui.content.ContentActivity">
+    tools:context="appkuis.kuiskorporat.kuis.ui.content.Soal_Antonim">
 
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/appbar_content"

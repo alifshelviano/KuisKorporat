@@ -1,0 +1,1469 @@
+{
+  "contents": [
+    {
+      "body": "1. Semua buku ilmiah ada di rak buku. \nNovel berada di atas meja...",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Beberapa buku ilmiah diatas meja",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Semua novel ada di rak buku",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Semua novel bukan buku ilmiah",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Semua buku ilmiah ada di rak buku",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "2. Semua hewan memamah biak memakan rumput. \nSementara kucing termasuk hewan memamah biak..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Kucing tidak memakan rumput",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Kucing makan rumput",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Hewan memamah biak tidak bertelur",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "TIdak ada kesimpulan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "3. Semua calon mahasiswa menempuh tes Matematika. \nSebagian calon mahasisw skor TOEFL diatas 450. Simpulan yang tepat adalah …...",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Semua calon mahasiswa yang memiliki skor TOEFL, tidak menempuh tes Matematika",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Semua calon mahasiswa yang menempuh tes Matematika tidak memiliki skor TOEFL",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Sebagian calon mahasiswa yang tidak memiliki skorTOEFL menempuh tes Matematika",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Semua kesimpulan salah",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "4. Premis umum : ...., Premis Khusus: pak Ahmad seorang pahlawan, Kesimpulan: Pak Akhmad berjuang tana pamrih",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Tidak semua pahlawan berjuang tanpa pamrih",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pada umumnya pahlawan berjuang tanpa pamrih",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Semua pahlawan berjuang tanpa pamrih",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Pak Ahmad seorang pahlawan yang berjuang tanpa pamrih",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "5. Kresna, Robi dan Fajar selalu bermain komputer atau menonton TV. JIka Kresna bermain komputer, maka Robi menonton TV. Salah satu dari Kresna atau Fajar bermain komputer, tetapi tidak keduanya. Manakah yang benar dari pernyatan-pernyataan di bawah ini,..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Kresna bermain komputer bersama Fajar, Robi bermain komputer",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Fajar dan Kresna menonton TV, Robi bermain komputer",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Robi menonton TV bersama Fajar, Kresna bermain Komputer ",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Kresna menonton TV bersama Robi, Fajar bermain komputer ",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "6. Bila S = T, maka S tidak sama  dengan M.",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Bila Y = M, maka Y = T",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Bila Y = M, maka Y tidak sama dengan T",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Bila Y = M, maka Y tidak sama dengan S",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Bila Y = M, maka Y = S",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "7. Semua pengusaha membayar pajak. Sebagian pengusaha dermawan. Disimpulkan bahwa ..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Semua pengusaha yang dermawan membayar pajak",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Semua pengusaha dermawan tidak membayar pajak",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Pengusaha yang membayar pajak tidak selalu dermawan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Pengusaha yang dermawan belum tentu membayar pajak",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "8. Semua anak usia sekolah wajib belajar. \nTono sekarang 10 tahun. Kesimpulan :",
+      "image": "",
+      "answers": [
+        {
+            "answer": "Anak usia sekolah wajib belajar.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Semua anak bernama Tono wajib belajar",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Tono wajib Belajar",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Para gelandangan yang berusia 10 tahun wajib belajar",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "9. Semua dosen adalah sarjana. Sementara dosen adalah ahli bahasa. Disimpulkan bahwa",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Sementara sarjana adalah dosen",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Semua ahli bahasa adalah sarjana",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Sementara ahli bahasa adalah sarjana",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Sementara sarjana adalah ahli bahasa",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "10. Semua orang berprofesi dokter hidup dengan makmur. \nSebagian orang yang berprofesi selalu membuka parktik. \nDisimpulkan bahwa..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Semua orang yang membuka praktik berprofesi dokter",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Semua orang yang membuka praktik hidupnyta makmur",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Semua orang yang membuka praktik dan hidup makmur berprofesi dokter",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Semua dokter harus membuka praktik untuk hidup makmur",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "11. Semua siswa SMU yang melanjutkan ke perguruan tinggi negeri harus lulus SPMB. \nAnto siswa yang melanjutkan ke perguruan negeri tinggi, Kesimpulan :",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Anto harus lulus SPMB",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Anto ingin kuliah karena ia siswa SMU",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Anto tamat SMU",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Anto akan mengikuti SPMB",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "12. Semua pemilik kendaran harus memiliki surat izin. \nSementara sepeda termasuk kendaraan",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Pemilik sepeda tidak perlu surat izin",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pemilik sepeda boleh mempunyai surat izin",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Pemilik sepeda harus mempunyai surat izin",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Tidak ada kesimpulan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "13. Jika Rani suka alpukat maka Rina suka tomat mereka adalah saudara dan Rina tidak suka tomat namun suka alpukat ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Rani suka tomat",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Rina suka Rani juga suka",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Rani tidak suka apukat",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Rina tidak suka keduanya",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "14. Indra adalah orang desa. Indra bekerja sebagai buruh di pabrik. \nBanyak buruh-buruh pabrik yang malas. \nBonar adalah teman indra. Jadi: ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Indra itu malas",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Bonar itu malas",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Bonar mungkin sedesa dengan Indra",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Tidak ada kesimpulan yang tepat",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "15. Fredy, Cindy, dan Sandy masing- masing memiliki dua ekor hewan piaraan. \nSalah satu di antara mereka tidak memelihara anjing. Cindy satu-satunya yang memelihara kucing. \nSandy memelihara anjing. \nFredy dan Cindy masing-masing memelihara kelinci. \nSiapakah yang memelihara kura-kura?",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Fredy",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Cindy",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Fredy dan Sandy",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Sandy",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "16. Tidak semua orang sakit pergi ke rumah sakit. \nDina pergi ke rumah sakilt. ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Hari ini Dina sakit",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Hari ini Dina tidak sakit",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Dina tidak harus ke rumah sakit",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Dina adalah seorang dokter",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "17. Semua P bukan Q. \nSementara P adalah L, jadi : ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Sebagian P adalah L bukan Q",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Sebagian P bukan Q dan L",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Semua L adalah P",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Sebagian P bukan L dan Q",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "18. Semua  air tanah mengandung zat besi. \nSemua zat besi tidak baik bagi kesehatan.",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Sebagian air tanah tidak mengandung zat besi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Semua zat besi tidak baik bagi kesehatan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Semua air tanah tidak baik bagi kesehatan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Sebagian air tanah baik untuk kesehatan.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "19. Jika hari Minggu maka Soni lari pagi dan tidak lari pagi. Kesimpulan : ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Soni lari pagi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Soni tidak lari pagi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Hari Minggu Sony lari pagi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Bukan hari Minggu",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "20. Premis umum : Semua ilmuwan Indonesia yang bergabung dalam BPPT sedang mengadakan penelitian untuk memperoleh energi kreatif. \nPremis : khusus: .... Kesimpulan : Pak Amir mengadakaan penelitian untuk memperoleh energi alternatif. \nPremis khusus yang tepat untuk melengkapi silogisme di atas adalah ... ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Pak Amir, ilmuwan Indonesia memperoleh energi alternatif",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pak Amir, mengadakan penelitian karena ia ilmuwan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Pak Amir, ilmuwan Indonesia, sedang mengadakan penelitian.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Pak Amir, ilmuwan Indonesia yang bergabung dalam BPPT",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "21. Lukisan abstrak itu membingungkan bagi sebagian orang.\nSemua seniman memahami lukisan abstrak itu. \nAndi tidak memahami makna lukisan abstrak itu. ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Andi termasuk orang yang kebingungan melihat lukisan itu",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Lukisan abstrak itu dapat dipahami oleh seniman kecuali Andi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Sebagian orang memahami lukisan abstrak termasuk Andi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Andi bukan seorang seniman",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "22. Jika Pak Guru memberikan nasihat \ndan motivasi, maka siswa harus \nmemperhatikan dengan saksama. \nJika siswa tidak memperhatikan, \nmaka maka dia tergolong siswa yang \nkurang sopan. \nJoko termasuk siswa yang sopan.",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Joko memperhatikan guru \nsaat memberikan nasihat dan \nmotivasi.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Siswa yang tidak sopan tidak \nmemperhatikan guru saat \nmemberikan nasihat.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Jika siswa tidak memperhatikan, \nmaka guru tidak memberikan \nnasihat dan motivasi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Joko termasuk siswa yang sopan \nwalaupun tidak memperhatikan \nguru saat memberikan nasihat",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "23. Semua penulis suka membaca. \nDian tidak suka membaca  ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Dian bukan seorang penulis",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Sebagian penulis tidak suka \nmembaca termasuk Dian",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Dian suka membaca bacaan \ntertentu saja",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Dian tidak suka membaca karena \ntidak ingin menjadi penulis.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "24. Toko buku itu menyediakan peralatan tulis dan buku paket bagi siswa SD, \nSMP, dan SMA. \nAndi membeli peralatan tulis dan buku paket di toko buku itu. ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Andi adalah seorang pelajar.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Andi membeli peralatan tulis di toko \nyang menyediakan keperluan siswa \nSD, SMP, dan SMA.U",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Toko buku itu menyediakan \nkebutuhan para pelajar.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Toko buku itu menjual buku paket \nkepada Andi.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "25. Semua reporter harus memiliki \nkemampuan menulis berita di media \nmassa. \nSebagian reporter suka menulis fiksi.  ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Tidak semua reporter memiliki \nkemampuan menulis fiksi.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Sebagian reporter memiliki \nkemampuan menulis fiksi dan \nberita di media massa.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Semua reporter tidak menyukai \nkegiatan menulis fiksi.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Sebagian reporter memiliki \nkemampuan menulis berita, tetapi \nkurang memiliki kemampuan \nmenulis fiksi.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "26. Jika Ayah pergi ke sawah, maka Ibu pasti mengirim bekal untuk makan \nsiang tepat saat terik matahari di atas \nkepala kita. \nJika Ibu tidak mengirim bekal untuk \nAyah, maka aku tidak akan menemani \nIbu.  ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Jika Ayah tidak pergi ke sawah, \nmaka aku tidak akan menemani \nIbu.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Jika Ibu mengirim bekal untuk \nmakan siang Ayah, aku tidak akan \nmenemani Ibu.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Ayah pergi ke sawah dan Ibu \nmengantarkan bekal makan \nsiangnya tepat saat terik matahari \ndi atas kepala kita.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Saya akan menemani Ibu \nmengantarkan bekal makan siang.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "27. Semua orang di kompleks ini memiliki rumah mewah. \nSebagian orang di kompleks memiliki mobil mewah.  ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Semua orang ingin memiliki \nrumah mewah dan mobil mewah.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Sebagian orang di kompleks \nini memiliki rumah dan mobil \nmewah.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Setiap orang di kompleks ini \nmemiliki rumah mewah.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Tidak setiap orang di kompleks \nmemiliki mobil mewah.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "28. Lola bangun kesiangan dan terlambat berangkat ke sekolah. \nPak Guru tidak suka dengan siswa yang datang terlambat. \nSiswa yang datang terlambat mendapatkan hukuman dari Pak Guru dengan membersihkan kamar mandi.  ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Pak Guru tidak menyukai siswa \nseperti Lola.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Lola berangkat terlambat, tetapi \nPak Guru tidak memberikan \nhukuman kepadanya.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Lola tidak disukai Pak Guru dan mendapat hukuman membersihkan kamar mandi.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Pak Guru tidak suka dengan siswa \nyang datang terlambat kecuali \nLola.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "29. Perusahaan itu mendapatkan keuntungan sebesar 25% dari penjualan barang produksinya. \nPerusahaan yang memiliki keuntungan di atas 15% harus mempergunakan laba tersebut \nminimal 2% dalam kegiatan sosial.  ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Perusahaan menggunakan \n2% dari keuntungannya untuk \nkegiatan sosial.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Perusahaan tidak harus memberikan dana untuk kegiatan sosial.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Perusahaan boleh menggunakan \n2% dari keuntungannya untuk \nkegiatan sosial, tetapi tidak wajib.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Perusahaan menggunakan 1% \ndari keuntungannya untuk kegiatan sosial.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "30. Penderita diabetes harus menghindari konsumsi gula secara berlebihan \ndalam setiap harinya. \nGula yang dikonsumsi tidak boleh \nmelebihi takaran yang seharusnya \nboleh dikonsumsi. \nPak Karjo tidak boleh melanggar \nukuran takaran gula yang boleh \ndikonsumsi setiap harinya.  ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Pak Karjo menderita diabetes",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pak Karjo boleh mengonsumsi \ngula sesuai takaran setiap harinya.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Pak Karjo harus mengurangi \nkonsumsi gula setiap harinya.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Pak Karjo memiliki ukuran takaran",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "31. Semua remaja menyukai musik pop. \nSemua orang tua tidak menyukai \nmusik pop. \nSebagian remaja menyukai musik \njazz, sedangkan semua orang tua \ntidak menyukai musik jazz.  ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Sebagian remaja menyukai musik \njazz dan musik pop, sedangkan \norang tua tidak menyukai \nkeduanya",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Sebagian remaja menyukai musik \njazz, tetapi semua orang orang \ntua tidak meyukainya.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Semua remaja menyukai musik \njazz, begitu juga semua orang tua",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Semua remaja menyukai musik \npop dan musik jazz.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "32. Jika Nita membeli roti bakar cokelat pada hari Kamis, maka dia juga memberi roti maryam. \nHari ini Nita membeli roti bakar cokelat dan roti cane.  ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Hari kemarin Nita membeli roti \nbakar cokelat dan roti maryam",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Hari ini bukan hari Kamis.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Hari ini Nita tidak ingin membeli \nroti maryam.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Hari kamis Nita membeli roti bakar \ncokelat dan roti cane",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "33. Mobil berwarna merah itu berjalan \nke arah utara menuju pusat perbelanjaan. \nOrang yang mengendarai mobil biru itu akan berbelanja kebutuhan sehari-hari. ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Mobil merah dan mobil biru \nmenuju arah yang sama",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Hanya mobil merah yang menuju \npusat perbelanjaan.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Mobil biru akan berbelanja di \ntempat lain yang tidak sama \ndengan tujuan mobil merah.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Mobil merah menuju ke arah utara, \nsedangkan mobil biru menuju ke \narah berbeda",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "34. Jika penjual koran keliling itu dapat menjual koran 20 buah, maka dia \nakan mendapatkan bonus 3% dari \nhasil penjualan tersebut. \nPenjual koran tersebut dapat menjual \n10 buah..  ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Penjual koran itu tidak mendapatkan bonus.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Penjual koran itu mendapatkan \nbonus 3% dari hasil penjualan \nkoran.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Penjual koran itu dapat menjual \nkoran lebih sedikit dari target \nutama penjualan.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Penjual koran itu tetap mendapatkan bonus kurang dari 3% \ndari hasil penjualan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "35. Ruko itu akan dijual dengan harga \nyang melebihi harga pasar. \nSemua calon pembeli akan membeli \nruko yang harganya sama dengan harga pasar atau di bawah harga pasar.  ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Tidak ada calon pembeli yang \nbersedia membeli ruko tersebut.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Calon pembeli akan membeli \nruko dengan harga yang sesuai \nstandar.U",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Ruko akan terjual jika harganya \nsama dengan harga pasar.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Calon pembeli akan membeli ruko \ntersebut.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "36. Semua sepatu kets yang dijual di dalam toko itu habis terjual. \nSebagian besar pembeli sepatu kets \ntersebut juga membeli kaus kaki. ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Sepatu dan kaus kaki habis terjual.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Toko itu menjual sepatu kets dan kaus kaki",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Sebagian pembeli di toko itu membeli sepatu kets dan kaus \nkaki.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Toko tersebut mendapatkan keuntungan yang lebih dari penjualan \nsepatu kets.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "37. Setiap mahasiswa memiliki dosen \npembimbing akademik. \nBayu tidak memiliki dosen pembimbing akademik.  ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Bayu bukan mahasiswa.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Bayu belum mendapatkan dosen \npembimbing akademik.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Bayu adalah mahasiswa tingkat",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Dosen pembimbing skripsi tidak \nmau membimbing Bayu.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+
+    },{
+      "body": "38. Koki toko makanan itu sering mendapatkan pesanan makanan yang sangat banyak. \nPemilik toko tersebut membuka lowongan pekerjaan untuk asisten koki.  ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Toko makanan itu memiliki banyak pelanggan.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Koki toko tersebut tidak memiliki cukup keahlian",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Koki toko makanan itu membutuhkan asisten koki.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Toko tersebut mendapatkan banyak keuntungan ",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "39. Semua penjual makanan di kantin ini juga menjual berbagai jenis minuman. \nSebagian penjual makanan di kantin menjual es teh. ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Es teh menjadi salah satu menu yang selalu dijual oleh sebagian penjual makanan di kantin",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Sebagian penjual makanan di kantin menjual berbagai jenis minuman salah satunya  es teh.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Semua penjual makanan di kantin menjual minuman es teh.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Sebagian penjual makanan di kantin menjual berbagai jenis makanan dan minuman",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "40. Sebagian mahasiswa yang memilikli sepeda motor diparkir di tempat parkir. \nMahasiswa yang memarkir sepeda motor di tempat parkir adalah mahasiswa yang taat terhadap peraturan. \nAndi tidak suka menaati peraturan.",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Semua mahasiswa taat terhadap peraturan kecuali Andi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Andi tidak memarkir motornya di tempat parkir",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Mahasiswa yang memarkir sepeda motor di lain tempat bukan mahasiswa yang taat peraturan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Tidak semua mahasiswa mau menaati peraturan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "41. Nina memiliki banyak koleksi jepit rambut dengan beragam warna pelangi.\nNina paling suka menggunakan jepit rambut warna hijau. ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Nina menyukai aksesoris warna pelangi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Warna hijau merupakan warna pelangi",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Nina memiliki banyak koleksi jepit rambut bewarna salah satunya warna hijau.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Nina menggunakan jepit rambut warna hijau lebih sering daripada warna lain.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "42. Anggi membeli boneka Doraemon yang bewarna putih biru di Mall Malioboro. \nAnggi membeli sepatu high heels warma putih. ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Anggi membeli boneka Doraemon yang bewarna putih biru dan sepatu high heels warna putih.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Anggi membeli sepatu high heels warna putih di Mall Malioboro.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Anggi membeli sepatu high heels warna putih dan boneka Doraemon yang bewarna biru putih di Mall Malioboro.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Anggi tidak membeli sepatu di Mall Malioboro",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "43. Anak perempuan terlihat cantik jika  menggunakan kerudung pashmina warna hijau muda  itu. \nFirda terlihat cantik. ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Firda  memiliki wajah yang cantik",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Firda menggunakan kerudung pashmina warna hijau muda itu",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Kerudung pashmina itu membuat Firda terlihat cantik",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Kerudung pashmina itu pantas dipakai oleh seorang perempuan.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "44. Bayi yang minum ASI lebih sehat daripada bayi yang minum susu formula. \nBu Ida dan Bu Alya memiliki anak derngan umur yang sama. \nAnak Bu Alya lebih mudah sakit daripada anak Bu Ida.  ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Anak Bu Ida minum ASI",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Anak Bu Alya tidak suka minum susu formula.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Anak Bu Ida kurang gizi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Kedua anak tersebut memiliki daya imun yang berbeda",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "45. Tes CPNS diikuti oleh sebagian besar orang Indonesia. \nRudi berasal  dari Indonesia. ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Rudi bukan orang Indonesia Asli.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Tes CPNS tidak diikuti oleh Rudi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Tidak semua orang Indonesia mengikuti tes CPNS",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Rudi mungkin mengikuti tes CPNS",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "46 Rumah yang terbuat dari bambu lebih mudah roboh tertiup angin puting beliung daripada rumah dari batu. \nNugroho melihat rumah roboh dari balik jendela.  ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Rumah yang roboh itu merupakan rumah Nugroho",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Rumah Nugroho terbuat dari bambu",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Nugroho melihat rumah roboh",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Rumah Nugroho terbuat dari batu",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "47. Indah menonton  kartun Chibi maruko chan  setelah menonton kartun Sinchan hari Minggu pagi. Kartun Spongebob ditayangkan sebelum Sinchan ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Indah menonton ketiga kartun tersebut.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Indah menonton Spongebob sebelum menonton Sinchan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Sinchan ditayangkan lebih awal daripada Spongebob.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Spongebob ditayangkan lebih pagi daripada dua film lainnya",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "48. Banyak pegawai negeri yang melakukan korupsi. \n Budi seorang pegawai negeri  ",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Semua pegawai negeri melakukan korupsi kecuali Budi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Budi mungkin tidak melakukan tindakan korupsi",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Budi pasti melakukan tidakan korupsi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Budi tidak suka melakukan  tindak korupsi",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },{
+      "body": "49. Lampu merah di utara jalan utama akan menyala setelah 80 detik lampu merah di selatan jalan menyala. Saat ini kendaraan berjalan ke arah selatan. ",
+
+      "image": "",
+      "answers": [
+        {
+          "answer": "Saat ini lampu merah di selatan jalan utama sedang menyala.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Lampu merah di utara jalan utama menyala terlebih dahulu daripada di selatan jalan utama",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Lampu merah di selatan jalan utama tidak sedang menyala",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer":"Saat ini lampu merah di utara jalan sedang menyala",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "50. Antrean di ATM BNI lebih panjang dibandingkan antrean di ATM BRI. Indri mengambil uang dalam waktu yang cukup lama.",
+
+      "image": "",
+      "answers": [
+        {
+          "answer": "Indri mengambil uang di ATM BNI",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Bank BRI lebih diminati daripada Bank BNI",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Indri mengambil uang di ATM BRI",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer":"Bank BNI memiliki ruang ATM lebih banyak daripada Bank BNI",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    }
+  ]
+}

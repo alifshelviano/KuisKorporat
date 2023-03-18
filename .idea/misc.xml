@@ -3,20 +3,66 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/QuizAppIPA (2)/QuizAppIPA/app/src/main/res/drawable/bg_rounded_stroke_primary.xml" value="0.1355" />
-        <entry key="..\:/QuizAppIPA (2)/QuizAppIPA/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1355" />
-        <entry key="..\:/QuizAppIPA (2)/QuizAppIPA/app/src/main/res/drawable/ic_baseline_panorama_fish_eye_24.xml" value="0.1355" />
-        <entry key="..\:/QuizAppIPA (2)/QuizAppIPA/app/src/main/res/layout/activity_content.xml" value="0.1598731884057971" />
-        <entry key="..\:/QuizAppIPA (2)/QuizAppIPA/app/src/main/res/layout/activity_main.xml" value="0.1598731884057971" />
-        <entry key="..\:/QuizAppIPA (2)/QuizAppIPA/app/src/main/res/layout/activity_score.xml" value="0.1598731884057971" />
-        <entry key="..\:/QuizAppIPA (2)/QuizAppIPA/app/src/main/res/layout/activity_splash.xml" value="0.1598731884057971" />
-        <entry key="..\:/QuizAppIPA (2)/QuizAppIPA/app/src/main/res/layout/item_answer.xml" value="0.1598731884057971" />
-        <entry key="..\:/QuizAppIPA (2)/QuizAppIPA/app/src/main/res/layout/item_content.xml" value="0.1598731884057971" />
-        <entry key="..\:/QuizAppIPA (2)/QuizAppIPA/app/src/main/res/layout/topics_option.xml" value="0.24561403508771928" />
+        <entry key="..\:/Android Projects/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/activity_content.xml" value="0.25" />
+        <entry key="..\:/Android Projects/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android Projects/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/activity_prepare.xml" value="0.25" />
+        <entry key="..\:/Android Projects/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/activity_score.xml" value="0.25" />
+        <entry key="..\:/Android Projects/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/activity_content.xml" value="0.10989583333333333" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/activity_prepare.xml" value="0.25" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/activity_score.xml" value="0.24635416666666668" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/item_answer.xml" value="0.25" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/item_content.xml" value="0.25" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/kunci_antonim.xml" value="0.13541666666666666" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/kunci_bindo.xml" value="0.25" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/kunci_bing.xml" value="0.25" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/kunci_deret.xml" value="0.24635416666666668" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/kunci_mtk.xml" value="0.25" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/kunci_nkri.xml" value="0.25" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/kunci_pancasila.xml" value="0.13541666666666666" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/kunci_penalaran.xml" value="0.25" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/kunci_sinonim.xml" value="0.25" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/kunci_uud.xml" value="0.10989583333333333" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/menu_aplikasi.xml" value="0.25" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/pembahasan2.xml" value="0.25" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/pembahasan3.xml" value="0.24635416666666668" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/sinonim.xml" value="0.24635416666666668" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/topics_akademik.xml" value="0.25" />
+        <entry key="..\:/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/topik_twk.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/drawable-v24/red.xml" value="0.2555" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/drawable/bg_btn_primary.xml" value="0.17" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/drawable/bg_index.xml" value="0.121" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/drawable/bg_option_answer.xml" value="0.121" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/drawable/bg_score.xml" value="0.121" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/activity_content.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/activity_prepare.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/activity_score.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/activity_score1.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/activity_score2.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/activity_score3.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/item_answer.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/item_content.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/menu_aplikasi.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/pembahasan.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/pembahasan2.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/pembahasan3.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/score_antonim.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/score_pancasila.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/score_penalaran.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/score_sinonim.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/topics_option.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/topics_option1.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/topics_option2.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/topics_option3.xml" value="0.25" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/topik_psikologi.xml" value="0.264" />
+        <entry key="..\:/Users/alifs/Downloads/QuizAppIPA/QuizAppIPA/app/src/main/res/layout/topik_twk.xml" value="0.25" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

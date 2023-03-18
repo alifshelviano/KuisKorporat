@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="appkuis.kuiskorporat.kuis.ui.content.pembahasan_mtk">
+
+    <!--EditText with id editText-->
+
+    <TextView
+        android:id="@+id/text_view_id2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="kunci mtk"
+        android:textColor="#008000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/bg_btn_primary"
+        android:text="Selesai "
+        android:textColor="@color/white"></Button>
+</LinearLayout>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.codepolitan.quizapp">
+    package="com.app.kuis">
 
     <application
         android:allowBackup="true"
@@ -9,20 +9,50 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.QuizApp">
-        <activity android:name="appquizipa.codepolitan.quizapp.ui.score.ScoreActivity"/>
-        <activity android:name="appquizipa.codepolitan.quizapp.ui.content.TopicActivity"/>
-        <activity android:name="appquizipa.codepolitan.quizapp.ui.content.ContentActivityA" />
-        <activity android:name="appquizipa.codepolitan.quizapp.ui.prepare.PrepareActivity" />
-        <activity android:name="appquizipa.codepolitan.quizapp.ui.content.ContentActivityB" />
-        <activity android:name="appquizipa.codepolitan.quizapp.ui.content.ContentActivityC" />
-        <activity android:name="appquizipa.codepolitan.quizapp.ui.splash.SplashActivity">
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.score.score_sinonim"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.score.score_antonim"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.score.score_deret"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.score.score_penalaran"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.score.score_nkri"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.score.score_pancasila"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.score.score_uud"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.score.score_bing"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.score.score_bindo"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.score.score_mtk"/>
+
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.pembahasan_sinonim"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.pembahasan_antonim"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.pembahasan_penalaran"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.pembahasan_pancasila"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.pembahasan_deret"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.pembahasan_bindo"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.pembahasan_bing"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.pembahasan_nkri"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.pembahasan_mtk"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.pembahasan_uud"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.Menu_aplikasi"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.Topik_psikologi"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.Topik_TWK"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.Topik_akademik"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.Soal_Antonim" />
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.Soal_Sinonim" />
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.Soal_Penalaran" />
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.Soal_Deret" />
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.Soal_Pancasila" />
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.Soal_Uud" />
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.Soal_Nkri" />
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.Soal_Bahasa_indo" />
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.Soal_Bahasa_ing" />
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.content.Soal_Matematika"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.prepare.PrepareActivity" />
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.splash.SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="appquizipa.codepolitan.quizapp.ui.main.MainActivity"/>
+        <activity android:name="appkuis.kuiskorporat.kuis.ui.main.MainActivity"/>
     </application>
 
 </manifest>
